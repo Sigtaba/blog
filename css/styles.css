@@ -1,23 +1,35 @@
 .hiking {
   color: red;
+  margin-top: 70px;
+  margin-bottom: 70px;
 }
 
 .food {
   color: orange;
+  margin-top: 70px;
+  margin-bottom: 70px;
 }
 
 .omsi {
   color: yellow;
+  margin-top: 70px;
+  margin-bottom: 70px;
 }
 
 .zoo {
   color: green;
+  margin-top: 70px;
+  margin-bottom: 70px;
 }
 
 .riverboats {
-  color: blue
+  color: blue;
+  margin-top: 70px;
+  margin-bottom: 70px;
 }
 
 .about {
 color: purple;
+margin-top: 70px;
+margin-bottom: 70px;
 }
